@@ -12,7 +12,7 @@
         "url": "git+https://github.com/jesse-digregorio/nodeJsMeadChatApp.git"
     },
     "engines": {
-        "node": "8.11.4"
+        "node": "6.2.2"
     },
     "author": "",
     "license": "ISC",
