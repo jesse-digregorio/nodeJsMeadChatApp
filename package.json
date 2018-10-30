@@ -1,0 +1,26 @@
+{
+    "name": "nodejsmeadchatapp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node server/server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jesse-digregorio/nodeJsMeadChatApp.git"
+    },
+    "engines": {
+        "node": "8.11.4"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jesse-digregorio/nodeJsMeadChatApp/issues"
+    },
+    "homepage": "https://github.com/jesse-digregorio/nodeJsMeadChatApp#readme",
+    "dependencies": {
+        "express": "^4.14.0"
+    }
+}
